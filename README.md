@@ -1,50 +1,51 @@
-<h1 align="center">Hi 👋, I'm RAYNER SEPTIA EFENDI</h1>
-<h3 align="center">💻 Information System Student | 🚀 Future Developer</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;I+love+coding+and+learning;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rayner;Future+Developer;Ngoding+terus+sampe+error+💀" />
 </p>
 
----
+<h1 align="center">Hi 👋, I'm RAYNER SEPTIA EFENDI</h1> 
+<h3 align="center">Information System Student | Future Developer</h3> 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Rayner%20Dev&fontSize=40&fontColor=ffffff" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 
 ---
 
 ## 🚀 About Me
-- 🎓 Mahasiswa Information System
-- 🔥 Lagi ngejar skill biar ga jadi beban tim
-- 🧠 Suka explore Web Dev & AI
-- ⚡ Target: jadi developer yang kepake, bukan pajangan
+- 🎓 Mahasiswa IT
+- 💻 Lagi belajar ngoding biar ga jadi beban server
+- ⚡ Fokus: Web Development / AI dikit-dikit
 
 ---
 
-## 🧠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,figma" />
+## 🧠 Skills & Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayner289&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayner289&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rayner289&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayner289&theme=tokyonight" />
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayner289&theme=tokyo-night&hide_border=true" />
 
 ---
 
 ## 🌐 Connect With Me
+- LinkedIn: isi atau hapus aja jangan kosong anjing
+- Instagram: isi juga
+
+---
+
+## 🎯 Fun Fact
+> "Ngoding 5 jam, error gara-gara titik koma ilang 💀"
+
+---
+
 <p align="center">
-<a href="https://instagram.com/username"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://linkedin.com/in/username"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=Rayner289&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
----
-
-## 🎯 Quote
-> "Code. Sleep. Repeat. Kadang error biar ga sombong 💀"
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
