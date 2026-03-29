@@ -1,51 +1,72 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rayner;Future+Developer;Ngoding+terus+sampe+error+💀" />
-</p>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h1 align="center">Hi 👋, I'm RAYNER SEPTIA EFENDI</h1> 
-<h3 align="center">Information System Student | Future Developer</h3> 
+###
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+<p align="left">My name is Rayner Septia Efendi and I'm a Information System Student from Indonesia</p>
 
----
+###
 
-## 🚀 About Me
-- 🎓 Mahasiswa IT
-- 💻 Lagi belajar ngoding biar ga jadi beban server
-- ⚡ Fokus: Web Development / AI dikit-dikit
+<h2 align="left">About me</h2>
 
----
+###
 
-## 🧠 Skills & Tech
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode" />
-</p>
+<p align="left">🎓 Mahasiswa IT<br>💻 Lagi belajar ngoding biar ga jadi beban server<br>⚡ Fokus: Web Development / AI dikit-dikit</p>
 
----
+###
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayner289&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayner289&theme=tokyonight" />
-</p>
+<h2 align="left">I code with</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayner289&theme=tokyo-night&hide_border=true" />
+###
 
----
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
 
-## 🌐 Connect With Me
-- LinkedIn: isi atau hapus aja jangan kosong anjing
-- Instagram: isi juga
+###
 
----
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
-## 🎯 Fun Fact
-> "Ngoding 5 jam, error gara-gara titik koma ilang 💀"
+###
 
----
+<h2 align="left">Play Game With Me</h2>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rayner289&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+###
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img src="https://raw.githubusercontent.com/Rayner289/Rayner289/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rayner289/Rayner289/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rayner289/Rayner289/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rayner289/Rayner289/output/pacman-contribution-graph.svg">
+</picture>
+
+###
